@@ -60,7 +60,7 @@ h2{font-size:12px;font-weight:600;letter-spacing:.05em;text-transform:uppercase;
 .map path.c:hover{opacity:.8}
 .map path.c.sel{stroke:var(--ink);stroke-width:2.4}
 .map text.lab{font-size:10px;fill:var(--ink);pointer-events:none;paint-order:stroke;stroke:var(--panel);stroke-width:2.5px;stroke-linejoin:round}
-.legend{display:flex;align-items:center;gap:10px;font-size:11px;color:var(--ink-2);flex-wrap:wrap;margin-top:6px}
+.legend{display:flex;align-items:center;gap:10px;font-size:11px;color:var(--ink-2);flex-wrap:wrap;margin:2px 0 8px}
 .ramp{display:flex;height:9px;width:150px;border-radius:3px;overflow:hidden}
 .ramp span{flex:1}
 .lines{display:grid;grid-template-columns:1fr 1fr;gap:14px}
@@ -104,13 +104,13 @@ details p{margin:8px 0 0}
   <div class="maps">
     <section class="card">
       <div class="hd"><h2>Índice de restrictividad</h2><span class="big" id="v-idx"></span></div>
-      <div class="fig map" id="map-idx"></div>
       <div class="legend"><span>Restrictivo (5)</span><div class="ramp" id="ramp-idx"></div><span>Flexible (11)</span></div>
+      <div class="fig map" id="map-idx"></div>
     </section>
     <section class="card">
       <div class="hd"><h2 id="t-h">Suelo residencial que admite 10+ pisos</h2><span class="big" id="v-h"></span></div>
-      <div class="fig map" id="map-h"></div>
       <div class="legend"><span>0%</span><div class="ramp" id="ramp-h"></div><span>100%</span></div>
+      <div class="fig map" id="map-h"></div>
     </section>
   </div>
 
