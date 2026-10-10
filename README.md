@@ -21,5 +21,6 @@ polígono-año. Polígonos con normas caso a caso quedan fuera de ambas medidas.
 
 - `index.html`: la página (necesita conexión para d3 y tipografías).
 - `data/simple.csv`: la serie comuna-año: `comuna`, `comuna_label`, `year`, `indice`,
-  `h4`, `h6`, `h10`, `hlibre` (shares 0 a 1), `h_prom_m` (altura máxima promedio en metros,
+  `h4`, `h6`, `h10`, `hlibre`, `hcasas` (shares 0 a 1; `hcasas` es la parte donde la altura
+  máxima tiene tope de 9 m o menos, es decir, solo casas), `h_prom_m` (altura máxima promedio en metros,
   solo polígonos con tope). `GRAN SANTIAGO` es el promedio ponderado por área.
