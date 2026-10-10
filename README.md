@@ -31,7 +31,7 @@ polígono-año. Polígonos con normas caso a caso quedan fuera de ambas medidas.
 Silva, H. E., K. Asahi y D. Gil (2026). *Regulación de edificación en el Gran Santiago, 1997 a
 2024* [datos y sitio web]. https://hugosilvam.github.io/regulacion-gran-santiago/
 
-Los datos se usan en: Asahi, K., D. Gil y H. E. Silva. "Wealth, Homeownership, and Land Use
+Los datos se usan en: Gil, D., H. E. Silva y K. Asahi. "Wealth, Homeownership, and Land Use
 Regulatory Changes". *Urban Studies*, en prensa.
 SSRN: https://papers.ssrn.com/abstract=7586760
 
