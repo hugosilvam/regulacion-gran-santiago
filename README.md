@@ -2,7 +2,7 @@
 
 Sitio: https://hugosilvam.github.io/regulacion-gran-santiago/
 
-Autores: Kenzo Asahi, Diego Gil y Hugo E. Silva, Pontificia Universidad Católica de Chile.
+Autores: Hugo E. Silva, Kenzo Asahi y Diego Gil, Pontificia Universidad Católica de Chile.
 Contacto: husilva@uc.cl.
 
 Mapa interactivo con dos medidas por comuna y año para 34 comunas del Gran Santiago:
@@ -28,7 +28,7 @@ polígono-año. Polígonos con normas caso a caso quedan fuera de ambas medidas.
 
 ## Cómo citar
 
-Asahi, K., D. Gil y H. E. Silva (2026). *Regulación de edificación en el Gran Santiago, 1997 a
+Silva, H. E., K. Asahi y D. Gil (2026). *Regulación de edificación en el Gran Santiago, 1997 a
 2024* [datos y sitio web]. https://hugosilvam.github.io/regulacion-gran-santiago/
 
 Los datos se usan en: Asahi, K., D. Gil y H. E. Silva. "Wealth, Homeownership, and Land Use
